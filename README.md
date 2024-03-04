@@ -23,9 +23,6 @@ The following **optional** features are implemented:
 - [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
 
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
